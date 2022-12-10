@@ -1,5 +1,5 @@
 # Scrapper
-📕 A general script to scrap images from web using google as a search engine and selenium driver.
+📕 A general script to scrap images from web using google as a search engine and selenium driver. [Not Optimized]
 
 # Installation
 * Clone this repository and use python package manager to install selenium package.
